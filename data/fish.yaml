@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: /content/drive/MyDrive/fish_data/fish_training
+val: /content/drive/MyDrive/fish_data/fish_validate
 
 nc: 1
 names: ['salmon']
