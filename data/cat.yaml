@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/cat_data/cats_training
+val: /content/drive/MyDrive/cat_data/cats_training
+
+nc: 2
+names: ['khao_manee', 'siamese']
